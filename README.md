@@ -4,7 +4,7 @@ An online platform to test your mental math skills
 An attempt to create a platform to test and develop your mental math skills in addition, subtraction, division & multiplication
 
 How many questions can you solve within 30 seconds (or within a time limit set by you)
-For now, there will be 5 options:
+For now, there will be 4 options:
 1. Addition: Users can enter how many numbers they want to add at a given point & max no. of digits they want to add
 2. Subtraction: Users can select no. of digits in the numbers they want to subtract. For now, subtraction of only upto 2 numbers and bigger minus smaller number
 3. Multiplication: Choose to multiply numbers of different no. of digits or same number.

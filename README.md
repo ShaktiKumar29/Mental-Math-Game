@@ -12,11 +12,12 @@ For now, users can choose from the below:
 5. Division: Users can select the number of digits in the dividend & divisor
 
 Additionals that can be included:
-1. Negative answer in subtraction
-2. Subtraction of more than 2 numbers
-3. Square root calculation
-4. Mix of all 4 basic operations
-5. Flash Anzan: Series of numbers will flash on screen one after the other. You have to calculate their sum
-6. Basic Operations with decimal numbers
+1. Option to users to choose between timed mode or not - User can either choose to either solve a fixed no of qns (like 10/20 etc) or select a time limit (how many they can solve within 30 sec/1-min etc)
+2. Negative answer in subtraction
+3. Subtraction of more than 2 numbers
+4. Square root calculation
+5. Mix of all 4 basic operations
+(done) 6. Flash Anzan: Series of numbers will flash on screen one after the other. You have to calculate their sum
+7. Basic Operations with decimal numbers
    
-(As on 10th May 2025, 15:28 EDT)
+(As on 24th May 2025, 16:55 EDT)
